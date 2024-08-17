@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lal-aih
+- 👋 Hi, I’m @Lal-aih, a computer engineering student at Concordia University
 - 👀 I’m interested in computers, space, gaming, game dev, vehicles, weightlifting, basketball
 - 🌱 I’m currently learning Javascript and Unity game development
 - 😄 Pronouns: He/Him
