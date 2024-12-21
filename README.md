@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lal-aih, a computer engineering student at Concordia University
 - 👀 I’m interested in computers, space, gaming, game dev, vehicles, weightlifting, basketball
-- 🌱 I’m currently learning Javascript and Unity game development
+- 🌱 I’m currently learning Unity game development
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Snowboarder and Sailor
 
